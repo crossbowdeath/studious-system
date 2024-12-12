@@ -1,0 +1,44 @@
+.elementor-3888 .elementor-element.elementor-element-7831662 {
+    background-image: url('https://your-github-link.com/Why-Saasly.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.6rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.8rem;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+li {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+button {
+    background-color: #0339D9;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
